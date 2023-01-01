@@ -10,3 +10,5 @@ Image classification using PyTorch
 - PyTorch Neural Network
 
 <i>Download archive from Kaggle</i>
+
+<i><a href="https://mcogrysko.github.io">Back to Mike Ogrysko's portfolio</a></i>
